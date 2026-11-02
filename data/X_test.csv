@@ -1,0 +1,241 @@
+Gender,Senior_Citizen,Tenure_Months,Contract_Type,Internet_Service,Payment_Method,Monthly_Charges_INR,Total_Charges_INR,Tech_Support,Online_Security,Support_Tickets_6M,Avg_Data_Usage_GB,Tenure_Category,Avg_Monthly_Spending_INR,Has_Tech_Support,Has_Online_Security,Has_Internet
+Male,No,39.0,Two year,Fiber,Cash,939.01,,Yes,Yes,2.0,68.22,25-48 Months,,1.0,1.0,
+Male,No,57.0,One year,Fiber,UPI,1056.88,59971.18,No,No,0.0,122.24,Above 48 Months,1052.1259649122808,0.0,0.0,
+Male,No,6.0,Two year,Fiber,Cash,1396.05,8033.72,Yes,No,5.0,135.28,0-12 Months,1338.9533333333334,1.0,0.0,
+Female,No,10.0,Two year,DSL,UPI,705.86,6936.18,Yes,No,0.0,98.88,0-12 Months,693.618,1.0,0.0,1.0
+Male,No,49.0,Two year,DSL,Cash,1004.99,46399.63,No,No,0.0,17.96,Above 48 Months,946.9312244897959,0.0,0.0,1.0
+Male,No,18.0,Month-to-month,Fiber,Cash,1158.95,20937.25,No,No,0.0,137.77,13-24 Months,1163.1805555555557,0.0,0.0,
+Male,No,14.0,Month-to-month,DSL,Bank Transfer,426.76,6105.78,No,,1.0,63.01,13-24 Months,436.1271428571428,0.0,,1.0
+Female,No,60.0,Two year,DSL,Credit Card,661.79,37631.16,No,Yes,0.0,102.68,Above 48 Months,627.186,0.0,1.0,1.0
+Female,No,64.0,Two year,Fiber,Credit Card,1043.72,68348.44,Yes,No,1.0,140.69,Above 48 Months,1067.944375,1.0,0.0,
+Male,No,45.0,Month-to-month,Fiber,UPI,953.22,42201.31,No,Yes,1.0,190.15,25-48 Months,937.8068888888888,0.0,1.0,
+Female,Yes,68.0,Month-to-month,Fiber,UPI,1018.83,65371.71,No,No,2.0,154.47,Above 48 Months,961.3486764705882,0.0,0.0,
+Male,No,69.0,Month-to-month,Fiber,Cash,1019.21,67932.84,No,Yes,2.0,174.64,Above 48 Months,984.5339130434783,0.0,1.0,
+Female,No,35.0,Month-to-month,DSL,Credit Card,784.63,28730.93,Yes,Yes,0.0,129.79,25-48 Months,820.8837142857143,1.0,1.0,1.0
+Male,No,62.0,One year,Fiber,Bank Transfer,993.09,65148.46,Yes,Yes,2.0,,Above 48 Months,1050.7816129032258,1.0,1.0,
+Female,No,30.0,One year,DSL,UPI,677.03,21393.15,No,Yes,0.0,99.02,25-48 Months,713.105,0.0,1.0,1.0
+Female,No,44.0,Month-to-month,Fiber,Cash,998.07,42545.21,,No,0.0,184.16,25-48 Months,966.9365909090909,,0.0,
+Male,No,12.0,Two year,Fiber,Bank Transfer,980.34,11722.29,No,Yes,1.0,107.89,0-12 Months,976.8575000000001,0.0,1.0,
+Male,Yes,14.0,Month-to-month,DSL,UPI,763.8,-75.0,Yes,No,0.0,49.08,13-24 Months,-5.357142857142857,1.0,0.0,1.0
+Female,No,22.0,Month-to-month,Fiber,UPI,767.18,15822.63,No,Yes,2.0,128.22,13-24 Months,719.2104545454545,0.0,1.0,
+Female,Yes,21.0,Month-to-month,DSL,Credit Card,897.11,19620.42,Yes,No,1.0,66.74,13-24 Months,934.3057142857142,1.0,0.0,1.0
+Female,No,51.0,One year,DSL,Cash,846.8,44934.2,Yes,Yes,0.0,0.0,Above 48 Months,881.0627450980392,1.0,1.0,1.0
+Male,No,32.0,One year,Fiber,Cash,1068.46,33710.02,Yes,No,10.0,157.01,25-48 Months,1053.438125,1.0,0.0,
+Male,Yes,19.0,Month-to-month,Fiber,Credit Card,1046.58,20087.68,No,Yes,5.0,144.75,13-24 Months,1057.2463157894738,0.0,1.0,
+Female,No,13.0,Month-to-month,Fiber,Bank Transfer,1066.13,13186.73,No,Yes,1.0,131.83,13-24 Months,1014.3638461538461,0.0,1.0,
+Male,No,57.0,Two year,Fiber,Credit Card,956.29,53323.83,No,No,0.0,121.33,Above 48 Months,935.5057894736842,0.0,0.0,
+Female,No,21.0,Two year,DSL,Cash,554.17,10976.98,Yes,Yes,3.0,36.6,13-24 Months,522.7133333333334,1.0,1.0,1.0
+Female,No,4.0,One year,,Bank Transfer,299.0,1181.28,No,Yes,0.0,22.01,0-12 Months,295.32,0.0,1.0,
+Female,No,7.0,Two year,,UPI,691.75,4818.69,Yes,No,7.0,0.0,0-12 Months,688.3842857142856,1.0,0.0,
+Male,No,38.0,One year,DSL,Bank Transfer,551.89,19636.07,No,Yes,1.0,46.07,25-48 Months,516.7386842105263,0.0,1.0,1.0
+Male,No,1.0,One year,DSL,Credit Card,860.03,900.4,No,No,0.0,100.46,0-12 Months,900.4,0.0,0.0,1.0
+Male,Yes,5.0,Month-to-month,Fiber,Cash,1105.83,5349.03,No,No,1.0,144.96,0-12 Months,1069.806,0.0,0.0,
+Female,No,15.0,Two year,Fiber,Cash,1289.71,19688.96,No,No,6.0,129.28,13-24 Months,1312.5973333333334,0.0,0.0,
+Male,No,71.0,Month-to-month,DSL,Cash,510.23,36944.69,No,Yes,0.0,64.3,Above 48 Months,520.3477464788733,0.0,1.0,1.0
+Male,No,21.0,,Fiber,UPI,1419.69,28332.32,No,Yes,2.0,137.0,13-24 Months,1349.1580952380953,0.0,1.0,
+Male,No,69.0,Two year,Fiber,Bank Transfer,1163.98,78025.32,No,No,0.0,150.55,Above 48 Months,1130.801739130435,0.0,0.0,
+Male,No,32.0,One year,DSL,Cash,539.33,17802.39,No,No,1.0,87.4,25-48 Months,556.3246875,0.0,0.0,1.0
+Female,No,25.0,Two year,DSL,Cash,623.38,16656.02,No,No,0.0,15.21,25-48 Months,666.2408,0.0,0.0,1.0
+Male,No,53.0,Month-to-month,Fiber,Cash,765.36,,No,No,,202.64,Above 48 Months,,0.0,0.0,
+Male,No,25.0,One year,DSL,Cash,589.98,15488.1,,Yes,3.0,41.65,25-48 Months,619.524,,1.0,1.0
+Female,No,8.0,Month-to-month,Fiber,Credit Card,1145.97,9762.86,Yes,No,3.0,160.81,0-12 Months,1220.3575,1.0,0.0,
+Male,No,8.0,One year,DSL,UPI,665.31,5213.6,Yes,No,1.0,19.81,0-12 Months,651.7,1.0,0.0,1.0
+Female,No,53.0,Month-to-month,DSL,UPI,753.83,38807.3,Yes,Yes,0.0,51.08,Above 48 Months,732.2132075471699,1.0,1.0,1.0
+Female,Yes,15.0,One year,DSL,UPI,556.86,8404.37,,Yes,0.0,24.3,13-24 Months,560.2913333333333,,1.0,1.0
+Female,No,25.0,Month-to-month,Fiber,Bank Transfer,1429.66,35889.05,Yes,No,4.0,147.19,25-48 Months,1435.5620000000001,1.0,0.0,
+Female,No,56.0,Month-to-month,DSL,Credit Card,,66156.13,Yes,,0.0,14.2,Above 48 Months,1181.3594642857145,1.0,,1.0
+Male,No,10.0,Month-to-month,Fiber,Cash,1034.07,10661.86,Yes,Yes,1.0,152.34,0-12 Months,1066.1860000000001,1.0,1.0,
+Female,No,9.0,One year,DSL,Bank Transfer,531.44,-500.0,,No,0.0,89.44,0-12 Months,-55.55555555555556,,0.0,1.0
+Male,No,13.0,Month-to-month,DSL,UPI,1135.87,15134.31,No,Yes,0.0,32.28,13-24 Months,1164.1776923076923,0.0,1.0,1.0
+Female,No,34.0,Month-to-month,DSL,Credit Card,631.29,21158.43,No,Yes,0.0,74.9,25-48 Months,622.3067647058824,0.0,1.0,1.0
+Female,No,24.0,Month-to-month,Fiber,Bank Transfer,995.57,22675.96,Yes,No,0.0,77.0,13-24 Months,944.8316666666666,1.0,0.0,
+Male,No,57.0,Month-to-month,,Credit Card,299.0,16353.77,Yes,Yes,3.0,5.83,Above 48 Months,286.9082456140351,1.0,1.0,
+Male,No,56.0,Month-to-month,Fiber,UPI,1016.09,53045.49,Yes,Yes,9.0,88.36,Above 48 Months,947.2408928571429,1.0,1.0,
+Female,No,6.0,Month-to-month,,Credit Card,299.0,1842.83,Yes,Yes,0.0,46.19,0-12 Months,307.1383333333333,1.0,1.0,
+Male,No,22.0,One year,,Credit Card,327.12,7420.11,Yes,No,0.0,13.18,13-24 Months,337.27772727272725,1.0,0.0,
+Male,No,8.0,Two year,Fiber,Cash,1104.43,8935.37,No,No,0.0,122.59,0-12 Months,1116.92125,0.0,0.0,
+Female,No,40.0,Two year,Fiber,UPI,821.65,32165.31,Yes,No,2.0,143.37,25-48 Months,804.13275,1.0,0.0,
+Female,No,55.0,Two year,DSL,Bank Transfer,687.67,36123.63,Yes,Yes,1.0,55.12,Above 48 Months,656.7932727272727,1.0,1.0,1.0
+Female,No,71.0,One year,Fiber,UPI,1380.4,96394.58,Yes,No,4.0,,Above 48 Months,1357.6701408450704,1.0,0.0,
+Female,No,51.0,Month-to-month,DSL,Credit Card,866.41,47157.23,No,No,1.0,23.94,Above 48 Months,924.6515686274511,0.0,0.0,1.0
+Female,No,53.0,Month-to-month,,Cash,368.45,19739.64,No,No,1.0,0.0,Above 48 Months,372.446037735849,0.0,0.0,
+Female,No,20.0,Month-to-month,Fiber,Bank Transfer,1270.25,23843.69,Yes,No,2.0,127.81,13-24 Months,1192.1844999999998,1.0,0.0,
+Female,No,27.0,Two year,Fiber,Credit Card,1181.2,31152.74,No,No,1.0,107.56,25-48 Months,1153.8051851851853,0.0,0.0,
+Male,No,4.0,Two year,Fiber,Bank Transfer,1091.71,4108.42,Yes,No,1.0,140.89,0-12 Months,1027.105,1.0,0.0,
+Male,No,12.0,Month-to-month,DSL,Credit Card,1008.53,12832.18,No,Yes,1.0,44.75,0-12 Months,1069.3483333333334,0.0,1.0,1.0
+,No,20.0,Month-to-month,Fiber,Cash,1147.21,23950.54,No,No,5.0,151.95,13-24 Months,1197.527,0.0,0.0,
+Male,No,46.0,Two year,Fiber,Bank Transfer,904.9,44144.81,No,No,1.0,178.93,25-48 Months,959.6697826086956,0.0,0.0,
+Male,No,66.0,Two year,Fiber,Credit Card,927.44,64847.07,No,Yes,4.0,152.39,Above 48 Months,982.5313636363636,0.0,1.0,
+Male,No,62.0,One year,Fiber,Cash,781.72,45704.49,No,No,7.0,113.96,Above 48 Months,737.169193548387,0.0,0.0,
+Male,No,65.0,One year,Fiber,Credit Card,1104.61,68802.55,No,No,1.0,132.5,Above 48 Months,1058.5007692307693,0.0,0.0,
+Female,Yes,32.0,One year,Fiber,UPI,1208.92,39239.09,,Yes,2.0,127.57,25-48 Months,1226.2215625,,1.0,
+Male,No,-3.0,Month-to-month,Fiber,Cash,,21215.46,No,No,1.0,139.4,0-12 Months,,0.0,0.0,
+Female,No,11.0,One year,Fiber,Cash,1008.75,10583.5,No,Yes,0.0,183.89,0-12 Months,962.1363636363636,0.0,1.0,
+Male,No,4.0,Month-to-month,DSL,Cash,924.21,3592.77,No,Yes,1.0,53.52,0-12 Months,898.1925,0.0,1.0,1.0
+Male,No,,Month-to-month,Fiber,Bank Transfer,1222.45,56272.56,Yes,Yes,0.0,146.78,,,1.0,1.0,
+Female,Yes,71.0,One year,DSL,Cash,868.33,62556.28,No,No,0.0,41.35,Above 48 Months,881.074366197183,0.0,0.0,1.0
+Female,Yes,21.0,Month-to-month,DSL,UPI,299.0,5882.97,No,Yes,0.0,64.95,13-24 Months,280.1414285714286,0.0,1.0,1.0
+Male,No,62.0,One year,DSL,UPI,941.3,55174.71,Yes,No,1.0,85.69,Above 48 Months,889.9146774193548,1.0,0.0,1.0
+Male,No,39.0,Month-to-month,,Bank Transfer,299.0,11007.3,No,No,1.0,23.38,25-48 Months,282.23846153846154,0.0,0.0,
+Female,No,10.0,Month-to-month,Fiber,Credit Card,959.79,9587.49,No,Yes,8.0,128.58,0-12 Months,958.749,0.0,1.0,
+Female,No,41.0,Month-to-month,DSL,Cash,568.96,23645.8,Yes,Yes,4.0,59.69,25-48 Months,576.7268292682927,1.0,1.0,1.0
+Female,Yes,68.0,One year,DSL,Cash,694.15,49165.28,No,No,0.0,50.88,Above 48 Months,723.0188235294117,0.0,0.0,1.0
+Female,No,56.0,One year,Fiber,UPI,1215.57,70030.55,No,No,4.0,166.8,Above 48 Months,1250.5455357142857,0.0,0.0,
+Male,No,30.0,Month-to-month,Fiber,Credit Card,766.81,23499.64,Yes,No,3.0,228.36,25-48 Months,783.3213333333333,1.0,0.0,
+Male,Yes,42.0,Month-to-month,Fiber,Credit Card,1002.08,42871.15,No,Yes,2.0,179.64,25-48 Months,1020.7416666666667,0.0,1.0,
+Male,No,5.0,One year,DSL,UPI,893.56,4718.85,No,No,0.0,35.49,0-12 Months,943.7700000000001,0.0,0.0,1.0
+Female,No,72.0,Month-to-month,DSL,Cash,879.96,63135.36,Yes,No,2.0,54.74,Above 48 Months,876.88,1.0,0.0,1.0
+Female,No,31.0,Two year,Fiber,Cash,1360.76,41333.0,Yes,No,0.0,133.89,25-48 Months,1333.3225806451612,1.0,0.0,
+Female,Yes,62.0,Two year,Fiber,Cash,764.26,48054.26,Yes,Yes,1.0,133.89,Above 48 Months,775.0687096774194,1.0,1.0,
+Male,No,51.0,One year,DSL,UPI,600.35,,No,No,,108.5,Above 48 Months,,0.0,0.0,1.0
+Female,No,27.0,One year,DSL,Credit Card,483.84,12688.54,Yes,Yes,1.0,72.63,25-48 Months,469.94592592592596,1.0,1.0,1.0
+Male,No,0.0,Two year,DSL,Cash,539.1,0.0,No,Yes,0.0,93.77,0-12 Months,,0.0,1.0,1.0
+Male,No,49.0,Month-to-month,Fiber,Credit Card,1021.38,53113.34,No,No,0.0,132.05,Above 48 Months,1083.9457142857143,0.0,0.0,
+Male,Yes,11.0,Two year,DSL,Bank Transfer,852.99,9343.91,No,No,1.0,123.78,0-12 Months,849.4463636363636,0.0,0.0,1.0
+Female,No,25.0,Month-to-month,DSL,UPI,831.91,20265.46,No,Yes,2.0,96.54,25-48 Months,810.6184,0.0,1.0,1.0
+Female,Yes,30.0,Month-to-month,DSL,Cash,1058.98,31120.06,Yes,No,9.0,18.31,25-48 Months,1037.3353333333334,1.0,0.0,1.0
+Male,Yes,15.0,Month-to-month,DSL,Bank Transfer,568.85,7961.53,No,No,2.0,46.94,13-24 Months,530.7686666666666,0.0,0.0,1.0
+Female,No,13.0,Month-to-month,DSL,Credit Card,711.33,9230.37,Yes,No,-2.0,92.12,13-24 Months,710.0284615384616,1.0,0.0,1.0
+Male,No,55.0,Month-to-month,Fiber,Cash,838.56,46353.09,No,No,1.0,95.53,Above 48 Months,842.7834545454544,0.0,0.0,
+Male,No,64.0,Month-to-month,Fiber,Cash,1492.51,91446.97,Yes,No,5.0,116.38,Above 48 Months,1428.85890625,1.0,0.0,
+Female,No,57.0,Two year,Fiber,Credit Card,1443.21,85443.2,No,Yes,6.0,146.2,Above 48 Months,1499.0035087719298,0.0,1.0,
+Male,No,48.0,One year,DSL,Cash,746.11,33840.23,Yes,No,2.0,65.82,25-48 Months,705.0047916666667,1.0,0.0,1.0
+Female,No,62.0,Two year,,UPI,497.33,29956.08,Yes,No,0.0,21.75,Above 48 Months,483.1625806451613,1.0,0.0,
+Female,No,49.0,One year,Fiber,Credit Card,741.03,38840.12,Yes,No,0.0,113.63,Above 48 Months,792.6555102040817,1.0,0.0,
+Male,No,44.0,One year,,Cash,299.0,12269.42,Yes,No,0.0,0.0,25-48 Months,278.85045454545457,1.0,0.0,
+Female,No,54.0,Month-to-month,DSL,Cash,428.6,23477.07,No,No,0.0,41.07,Above 48 Months,434.7605555555555,0.0,0.0,1.0
+Female,No,17.0,Month-to-month,,Credit Card,299.0,4770.43,No,No,0.0,22.06,13-24 Months,280.6135294117647,0.0,0.0,
+Male,No,38.0,Month-to-month,Fiber,Cash,1136.28,40903.79,Yes,Yes,0.0,192.2,25-48 Months,1076.4155263157895,1.0,1.0,
+Female,No,1.0,Month-to-month,Fiber,Credit Card,1108.61,1056.48,,No,7.0,167.08,0-12 Months,1056.48,,0.0,
+Female,No,45.0,One year,Fiber,Cash,1108.22,47738.87,Yes,No,5.0,114.45,25-48 Months,1060.8637777777778,1.0,0.0,
+Female,Yes,13.0,Month-to-month,DSL,Credit Card,653.28,8233.08,No,No,4.0,16.32,13-24 Months,633.3138461538462,0.0,0.0,1.0
+Male,No,30.0,Month-to-month,,Bank Transfer,907.54,28876.29,Yes,Yes,3.0,153.32,25-48 Months,962.543,1.0,1.0,
+Female,No,2.0,Two year,,UPI,356.31,,Yes,Yes,2.0,0.0,0-12 Months,,1.0,1.0,
+Female,No,51.0,Month-to-month,DSL,Bank Transfer,299.0,16252.86,Yes,No,1.0,28.77,Above 48 Months,318.6835294117647,1.0,0.0,1.0
+Female,Yes,32.0,One year,Fiber,UPI,896.05,28023.83,No,No,1.0,118.87,25-48 Months,875.7446875,0.0,0.0,
+Male,Yes,20.0,Two year,Fiber,Bank Transfer,1221.29,24292.49,No,No,1.0,132.38,13-24 Months,1214.6245000000001,0.0,0.0,
+Male,No,17.0,One year,,UPI,,5461.21,No,Yes,3.0,11.2,13-24 Months,321.24764705882353,0.0,1.0,
+Female,No,20.0,Two year,DSL,Bank Transfer,338.28,6969.0,Yes,No,1.0,76.13,13-24 Months,348.45,1.0,0.0,1.0
+Female,No,33.0,One year,Fiber,Credit Card,1169.05,40951.06,No,No,2.0,143.8,25-48 Months,1240.941212121212,0.0,0.0,
+,No,67.0,Two year,Fiber,Cash,1299.92,82566.56,No,Yes,2.0,214.87,Above 48 Months,1232.3367164179103,0.0,1.0,
+Female,No,66.0,Month-to-month,DSL,UPI,380.28,25311.95,No,,2.0,51.37,Above 48 Months,383.5143939393939,0.0,,1.0
+Male,No,41.0,One year,Fiber,Credit Card,1564.02,68160.99,Yes,No,0.0,153.23,25-48 Months,1662.4631707317074,1.0,0.0,
+Male,No,70.0,One year,Fiber,Credit Card,,96450.82,Yes,No,0.0,156.43,Above 48 Months,1377.8688571428572,1.0,0.0,
+Female,Yes,37.0,One year,,Cash,376.32,13505.92,Yes,No,0.0,0.0,25-48 Months,365.02486486486487,1.0,0.0,
+Male,Yes,10.0,Month-to-month,DSL,Credit Card,632.3,6743.32,Yes,No,1.0,3.86,0-12 Months,674.332,1.0,0.0,1.0
+Female,No,12.0,One year,Fiber,Cash,948.07,11038.96,Yes,No,0.0,151.12,0-12 Months,919.9133333333333,1.0,0.0,
+Male,Yes,39.0,Month-to-month,Fiber,Bank Transfer,1128.57,41074.74,Yes,No,2.0,142.3,25-48 Months,1053.1984615384615,1.0,0.0,
+Male,No,55.0,Two year,Fiber,UPI,1194.7,62517.0,No,No,2.0,110.52,Above 48 Months,1136.6727272727273,0.0,0.0,
+Male,No,20.0,Month-to-month,,UPI,1051.53,19596.43,Yes,Yes,0.0,173.76,13-24 Months,979.8215,1.0,1.0,
+Male,No,25.0,Two year,Fiber,Bank Transfer,1215.3,31311.74,No,No,2.0,102.68,25-48 Months,1252.4696000000001,0.0,0.0,
+Female,No,10.0,Two year,Fiber,Credit Card,1223.28,12402.4,No,No,1.0,168.44,0-12 Months,1240.24,0.0,0.0,
+Female,No,62.0,Two year,,UPI,491.67,30050.1,No,No,0.0,2.11,Above 48 Months,484.67903225806447,0.0,0.0,
+Male,No,51.0,One year,Fiber,Bank Transfer,1309.19,63767.48,Yes,Yes,2.0,173.6,Above 48 Months,1250.3427450980394,1.0,1.0,
+Male,Yes,11.0,Two year,,Cash,299.0,3126.14,Yes,No,0.0,60.04,0-12 Months,284.19454545454545,1.0,0.0,
+Male,No,72.0,Month-to-month,Fiber,Cash,1386.98,106007.03,Yes,Yes,1.0,164.33,Above 48 Months,1472.319861111111,1.0,1.0,
+,No,2.0,Month-to-month,DSL,UPI,791.35,1521.34,No,No,5.0,75.93,0-12 Months,760.67,0.0,0.0,1.0
+Female,No,63.0,Month-to-month,DSL,Bank Transfer,891.62,54117.86,No,Yes,0.0,54.43,Above 48 Months,859.0136507936508,0.0,1.0,1.0
+Female,No,8.0,Month-to-month,DSL,Credit Card,671.06,5617.18,No,Yes,1.0,68.08,0-12 Months,702.1475,0.0,1.0,1.0
+Female,No,63.0,One year,Fiber,Credit Card,734.59,46794.04,No,No,0.0,173.58,Above 48 Months,742.7625396825397,0.0,0.0,
+Female,No,56.0,Two year,Fiber,Cash,499.22,26597.16,No,Yes,1.0,169.79,Above 48 Months,474.94928571428574,0.0,1.0,
+Female,No,37.0,Two year,Fiber,Credit Card,928.96,36403.67,No,No,0.0,174.8,25-48 Months,983.8829729729729,0.0,0.0,
+Female,Yes,60.0,Two year,DSL,UPI,876.25,49819.44,Yes,Yes,5.0,90.96,Above 48 Months,830.3240000000001,1.0,1.0,1.0
+Male,No,30.0,Month-to-month,Fiber,Bank Transfer,1303.96,37805.14,Yes,No,7.0,,25-48 Months,1260.1713333333332,1.0,0.0,
+,No,20.0,Month-to-month,Fiber,Credit Card,927.33,17874.51,No,Yes,0.0,164.21,13-24 Months,893.7254999999999,0.0,1.0,
+Male,No,48.0,One year,Fiber,Credit Card,1113.64,57144.13,Yes,Yes,4.0,96.52,25-48 Months,1190.5027083333332,1.0,1.0,
+Male,No,5.0,One year,Fiber,Cash,1355.35,6484.89,No,No,3.0,151.08,0-12 Months,1296.978,0.0,0.0,
+Female,No,27.0,Two year,Fiber,Credit Card,1122.98,29011.57,No,No,0.0,143.37,25-48 Months,1074.5025925925927,0.0,0.0,
+Male,No,61.0,Month-to-month,Fiber,Cash,1122.88,65651.13,Yes,Yes,1.0,155.9,Above 48 Months,1076.2480327868852,1.0,1.0,
+Male,No,57.0,One year,DSL,Cash,690.64,38142.02,No,Yes,1.0,39.08,Above 48 Months,669.1582456140351,0.0,1.0,1.0
+Female,No,,Month-to-month,DSL,UPI,635.89,36014.32,Yes,No,1.0,73.43,,,1.0,0.0,1.0
+Male,No,67.0,Month-to-month,Fiber,Bank Transfer,1116.06,76657.46,No,Yes,0.0,177.96,Above 48 Months,1144.1411940298508,0.0,1.0,
+Female,Yes,58.0,Two year,DSL,Cash,966.68,52170.49,No,No,2.0,18.0,Above 48 Months,899.4912068965517,0.0,0.0,1.0
+Male,No,12.0,Month-to-month,DSL,Cash,694.53,7765.02,No,No,1.0,0.0,0-12 Months,647.085,0.0,0.0,1.0
+Female,Yes,39.0,Month-to-month,DSL,Cash,969.25,35329.15,No,No,2.0,18.84,25-48 Months,905.875641025641,0.0,0.0,1.0
+Female,No,18.0,One year,Fiber,Cash,1275.49,23591.94,Yes,Yes,4.0,110.69,13-24 Months,1310.6633333333332,1.0,1.0,
+Male,No,31.0,Month-to-month,,Cash,412.63,12693.97,Yes,Yes,1.0,0.0,25-48 Months,409.4829032258064,1.0,1.0,
+Female,No,63.0,One year,DSL,Credit Card,520.84,33491.19,Yes,No,0.0,36.56,Above 48 Months,531.6061904761905,1.0,0.0,1.0
+Male,No,6.0,Month-to-month,DSL,Bank Transfer,637.83,3806.22,No,Yes,0.0,49.12,0-12 Months,634.37,0.0,1.0,1.0
+Male,Yes,61.0,Month-to-month,Fiber,Credit Card,,58707.82,No,No,12.0,181.87,Above 48 Months,962.4232786885245,0.0,0.0,
+Female,No,51.0,One year,Fiber,UPI,1245.5,67171.06,No,No,1.0,118.47,Above 48 Months,1317.0796078431372,0.0,0.0,
+Male,No,18.0,Month-to-month,Fiber,UPI,1314.35,25256.95,No,No,0.0,122.89,13-24 Months,1403.163888888889,0.0,0.0,
+Male,No,4.0,Two year,Fiber,UPI,1024.25,3986.72,No,No,,161.17,0-12 Months,996.68,0.0,0.0,
+Male,No,28.0,One year,DSL,Cash,584.43,15992.12,Yes,No,0.0,21.84,25-48 Months,571.1471428571429,1.0,0.0,1.0
+Female,No,56.0,Month-to-month,DSL,UPI,566.16,32435.34,No,Yes,0.0,22.58,Above 48 Months,579.2025,0.0,1.0,1.0
+Female,No,62.0,Month-to-month,DSL,Bank Transfer,703.12,44999.19,No,Yes,0.0,46.61,Above 48 Months,725.7933870967743,0.0,1.0,1.0
+Female,No,62.0,Two year,DSL,UPI,900.25,53987.65,Yes,No,1.0,0.0,Above 48 Months,870.7685483870968,1.0,0.0,1.0
+Male,No,68.0,One year,Fiber,Cash,1088.51,70552.2,No,No,0.0,176.72,Above 48 Months,1037.5323529411764,0.0,0.0,
+Male,Yes,22.0,Month-to-month,Fiber,Cash,1214.8,25708.96,No,Yes,3.0,-20.0,13-24 Months,1168.5890909090908,0.0,1.0,
+Female,No,2.0,Two year,,UPI,1001.2,2034.6,No,Yes,0.0,97.49,0-12 Months,1017.3,0.0,1.0,
+Male,No,3.0,Two year,Fiber,Cash,1073.44,3289.04,No,Yes,0.0,184.37,0-12 Months,1096.3466666666666,0.0,1.0,
+Female,No,62.0,Month-to-month,Fiber,Credit Card,1227.21,78176.03,No,No,6.0,200.78,Above 48 Months,1260.9037096774193,0.0,0.0,
+Female,No,7.0,Month-to-month,,UPI,299.0,2124.34,No,Yes,3.0,37.48,0-12 Months,303.4771428571429,0.0,1.0,
+Female,No,35.0,Month-to-month,Fiber,Bank Transfer,99999.0,36971.03,Yes,Yes,0.0,149.13,25-48 Months,1056.3151428571427,1.0,1.0,
+Male,No,70.0,Month-to-month,DSL,UPI,569.74,40280.07,Yes,No,0.0,58.42,Above 48 Months,575.4295714285714,1.0,0.0,1.0
+,No,46.0,Month-to-month,DSL,Bank Transfer,664.94,29487.07,No,No,0.0,98.3,25-48 Months,641.0232608695652,0.0,0.0,1.0
+Male,No,54.0,Month-to-month,DSL,Cash,728.14,41890.01,Yes,No,0.0,50.6,Above 48 Months,775.7409259259259,1.0,0.0,1.0
+Female,No,46.0,Month-to-month,Fiber,UPI,1171.85,55565.44,No,No,1.0,156.71,25-48 Months,1207.944347826087,0.0,0.0,
+Male,No,36.0,Month-to-month,Fiber,Cash,1141.93,40217.0,,No,0.0,172.96,25-48 Months,1117.138888888889,,0.0,
+Male,No,17.0,Month-to-month,,Cash,299.0,5171.9,No,No,0.0,0.0,13-24 Months,304.22941176470584,0.0,0.0,
+Female,No,11.0,One year,Fiber,Cash,811.33,8667.55,No,Yes,0.0,190.82,0-12 Months,787.9590909090908,0.0,1.0,
+Female,Yes,19.0,One year,DSL,UPI,607.52,11781.15,Yes,No,10.0,56.24,13-24 Months,620.0605263157895,1.0,0.0,1.0
+Male,Yes,66.0,Month-to-month,DSL,UPI,516.03,34437.12,No,Yes,0.0,70.23,Above 48 Months,521.7745454545455,0.0,1.0,1.0
+Male,No,6.0,One year,DSL,UPI,603.08,3485.53,No,No,1.0,62.16,0-12 Months,580.9216666666667,0.0,0.0,1.0
+Male,Yes,70.0,Month-to-month,Fiber,Bank Transfer,836.33,57432.92,Yes,No,4.0,190.89,Above 48 Months,820.4702857142856,1.0,0.0,
+Male,No,69.0,Two year,DSL,UPI,647.08,46690.58,No,Yes,7.0,134.59,Above 48 Months,676.6750724637682,0.0,1.0,1.0
+Female,No,69.0,Two year,Fiber,Bank Transfer,1191.8,83706.68,Yes,Yes,5.0,104.02,Above 48 Months,1213.1402898550723,1.0,1.0,
+Male,No,2.0,One year,,UPI,597.2,1142.91,Yes,Yes,0.0,46.17,0-12 Months,571.455,1.0,1.0,
+Male,No,63.0,Month-to-month,,UPI,1090.42,64196.38,Yes,Yes,2.0,166.88,Above 48 Months,1018.9901587301587,1.0,1.0,
+Female,No,38.0,Month-to-month,,Bank Transfer,421.95,15403.74,No,No,4.0,0.0,25-48 Months,405.3615789473684,0.0,0.0,
+Female,No,0.0,One year,Fiber,UPI,1440.23,0.0,No,No,1.0,167.68,0-12 Months,,0.0,0.0,
+Male,No,37.0,One year,DSL,Credit Card,1046.12,40246.6,No,No,2.0,77.23,25-48 Months,1087.745945945946,0.0,0.0,1.0
+Male,No,31.0,Month-to-month,Fiber,Bank Transfer,731.62,21641.62,Yes,No,4.0,163.48,25-48 Months,698.1167741935484,1.0,0.0,
+,No,57.0,Month-to-month,Fiber,UPI,1030.9,59160.14,Yes,No,0.0,119.23,Above 48 Months,1037.897192982456,1.0,0.0,
+Male,No,33.0,One year,Fiber,Credit Card,1057.81,37314.02,Yes,Yes,0.0,160.49,25-48 Months,1130.7278787878786,1.0,1.0,
+Male,No,70.0,Month-to-month,Fiber,Credit Card,1068.09,69926.21,No,No,0.0,164.3,Above 48 Months,998.9458571428572,0.0,0.0,
+Female,Yes,52.0,One year,Fiber,Bank Transfer,1199.1,61809.04,No,Yes,0.0,157.82,Above 48 Months,1188.6353846153847,0.0,1.0,
+Male,No,59.0,Month-to-month,Fiber,UPI,840.73,47816.4,Yes,Yes,3.0,187.93,Above 48 Months,810.4474576271186,1.0,1.0,
+Female,No,46.0,One year,Fiber,Credit Card,1065.17,48050.47,No,No,1.0,144.22,25-48 Months,1044.5754347826087,0.0,0.0,
+Female,No,68.0,Month-to-month,DSL,UPI,573.74,41392.57,Yes,Yes,0.0,108.34,Above 48 Months,608.7142647058823,1.0,1.0,1.0
+Male,No,26.0,Month-to-month,DSL,Cash,631.32,16153.8,Yes,,1.0,23.42,25-48 Months,621.3,1.0,,1.0
+Male,Yes,46.0,One year,DSL,Cash,808.81,39381.48,No,No,4.0,17.27,25-48 Months,856.1191304347827,0.0,0.0,1.0
+Female,No,38.0,Two year,DSL,UPI,605.44,23901.02,No,Yes,0.0,52.77,25-48 Months,628.9742105263158,0.0,1.0,1.0
+Male,No,37.0,One year,Fiber,Cash,837.63,28832.44,No,Yes,1.0,160.57,25-48 Months,779.2551351351351,0.0,1.0,
+Male,No,13.0,Month-to-month,Fiber,Bank Transfer,1217.34,16369.46,No,No,0.0,169.1,13-24 Months,1259.1892307692308,0.0,0.0,
+Female,No,34.0,Month-to-month,Fiber,Cash,1000.34,33923.56,No,No,1.0,108.41,25-48 Months,997.7517647058822,0.0,0.0,
+Female,No,37.0,Month-to-month,Fiber,Bank Transfer,1477.11,57150.17,No,No,3.0,192.64,25-48 Months,1544.5991891891892,0.0,0.0,
+Male,Yes,70.0,One year,Fiber,Cash,1407.67,95232.16,No,Yes,0.0,142.72,Above 48 Months,1360.4594285714286,0.0,1.0,
+Male,Yes,2.0,Two year,DSL,UPI,699.33,1303.61,No,No,3.0,21.04,0-12 Months,651.805,0.0,0.0,1.0
+Male,Yes,56.0,One year,Fiber,Cash,1366.41,77724.63,No,Yes,0.0,129.06,Above 48 Months,1387.9398214285716,0.0,1.0,
+Female,No,71.0,One year,Fiber,Cash,896.31,59868.19,Yes,,0.0,88.2,Above 48 Months,843.2139436619718,1.0,,
+Male,No,64.0,Two year,DSL,Bank Transfer,671.57,45481.69,No,,4.0,131.28,Above 48 Months,710.65140625,0.0,,1.0
+Male,No,35.0,,Fiber,Cash,740.71,25774.12,Yes,No,1.0,119.56,25-48 Months,736.4034285714285,1.0,0.0,
+Male,No,48.0,One year,Fiber,Bank Transfer,1080.82,48529.83,No,Yes,1.0,164.38,25-48 Months,1011.038125,0.0,1.0,
+Male,Yes,27.0,Two year,Fiber,Cash,1198.2,32732.98,Yes,Yes,0.0,145.9,25-48 Months,1212.3325925925926,1.0,1.0,
+Male,Yes,58.0,Month-to-month,Fiber,Cash,1127.91,67952.28,Yes,Yes,0.0,171.46,Above 48 Months,1171.5910344827587,1.0,1.0,
+Female,No,16.0,One year,DSL,UPI,753.06,11320.93,No,No,1.0,71.3,13-24 Months,707.558125,0.0,0.0,1.0
+Female,No,26.0,Two year,Fiber,UPI,959.61,24162.39,Yes,Yes,1.0,126.47,25-48 Months,929.3226923076923,1.0,1.0,
+Male,No,44.0,One year,,Credit Card,1189.02,49842.34,,No,0.0,160.9,25-48 Months,1132.7804545454544,,0.0,
+Female,No,22.0,Two year,DSL,Bank Transfer,701.24,,No,No,3.0,93.25,13-24 Months,,0.0,0.0,1.0
+Male,No,,One year,DSL,Bank Transfer,672.74,20743.46,No,Yes,1.0,33.9,,,0.0,1.0,1.0
+Male,No,45.0,Month-to-month,,Cash,299.0,14212.75,No,Yes,0.0,0.0,25-48 Months,315.8388888888889,0.0,1.0,
+Male,No,38.0,Month-to-month,Fiber,UPI,1310.85,,No,No,0.0,183.99,25-48 Months,,0.0,0.0,
+Male,No,34.0,One year,DSL,Bank Transfer,732.74,23418.96,No,No,0.0,73.09,25-48 Months,688.7929411764705,0.0,0.0,1.0
+Male,Yes,66.0,Month-to-month,,Credit Card,385.38,24112.27,Yes,Yes,0.0,67.73,Above 48 Months,365.3374242424243,1.0,1.0,
+Female,No,66.0,One year,Fiber,Cash,1164.68,,Yes,Yes,0.0,136.41,Above 48 Months,,1.0,1.0,
+Female,No,58.0,Two year,DSL,Credit Card,795.82,44281.19,No,No,0.0,62.24,Above 48 Months,763.4687931034483,0.0,0.0,1.0
+Male,No,52.0,Two year,DSL,Bank Transfer,816.04,43157.12,No,Yes,3.0,53.14,Above 48 Months,829.9446153846154,0.0,1.0,1.0
+Female,No,20.0,Two year,Fiber,UPI,1087.49,23141.6,Yes,No,1.0,174.88,13-24 Months,1157.08,1.0,0.0,
+Male,No,,Two year,DSL,Cash,989.22,38283.6,No,Yes,0.0,44.39,,,0.0,1.0,1.0
+Female,No,29.0,,Fiber,UPI,1079.32,30947.04,No,No,2.0,114.14,25-48 Months,1067.1393103448277,0.0,0.0,
+Male,No,54.0,Month-to-month,Fiber,UPI,895.27,46944.31,No,Yes,0.0,199.11,Above 48 Months,869.339074074074,0.0,1.0,
+Male,No,12.0,Month-to-month,Fiber,Credit Card,999.31,12229.81,,Yes,0.0,164.38,0-12 Months,1019.1508333333333,,1.0,
+Male,Yes,15.0,Month-to-month,DSL,Cash,924.01,13865.09,No,Yes,0.0,48.73,13-24 Months,924.3393333333333,0.0,1.0,1.0
+Female,No,32.0,Month-to-month,Fiber,UPI,887.76,27238.1,No,No,2.0,170.79,25-48 Months,851.190625,0.0,0.0,
+Male,No,25.0,One year,DSL,UPI,644.98,15791.11,,No,7.0,50.3,25-48 Months,631.6444,,0.0,1.0
+Female,No,7.0,One year,DSL,Credit Card,507.23,3437.66,,Yes,3.0,29.84,0-12 Months,491.0942857142857,,1.0,1.0
+Male,No,67.0,One year,DSL,Cash,705.49,49293.12,No,No,3.0,68.11,Above 48 Months,735.7182089552239,0.0,0.0,1.0
+Female,No,68.0,One year,DSL,Credit Card,616.7,44040.35,Yes,No,1.0,122.22,Above 48 Months,647.652205882353,1.0,0.0,1.0
+Male,No,39.0,Month-to-month,Fiber,UPI,1074.15,42753.11,Yes,No,0.0,152.55,25-48 Months,1096.2335897435898,1.0,0.0,
+Female,No,49.0,One year,DSL,Cash,826.52,38192.66,No,Yes,,51.46,Above 48 Months,779.4420408163267,0.0,1.0,1.0
+Male,No,1.0,Two year,DSL,Cash,1020.79,1052.7,No,No,1.0,19.5,0-12 Months,1052.7,0.0,0.0,1.0
